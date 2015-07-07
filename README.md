@@ -1,2 +1,2 @@
 # hello-world
-tutorial project
+tutorial project from guides.github.com
